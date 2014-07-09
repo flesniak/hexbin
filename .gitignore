@@ -1,0 +1,4 @@
+moc_*.h
+moc_*.cpp
+*.o
+hexbin
